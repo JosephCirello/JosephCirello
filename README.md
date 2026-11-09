@@ -11,6 +11,11 @@ Founder of [Potestas AI](https://potestasai.com). I test what AI agents do, not 
 - **[os-dagger](https://github.com/JosephCirello/os-dagger)**: ask Army doctrine a question and get the publication and page with every sentence.
 - **[ai-overlord](https://github.com/JosephCirello/ai-overlord)**: a talking AI monster that prints its objective file before it speaks. Swap the file and it is a gardener.
 
+### Work with Potestas AI
+
+- **Putting an AI agent in front of money, patients or customers?** [See the screening](https://potestasai.com/screening) or [book a 30-minute call](https://calendly.com/joseph-cirello-potestasai).
+- **The website:** [potestasai.com](https://potestasai.com)
+
 ### Read more
 
 - The book, free: [Your AI Is Safe. Says Who?](https://potestasai.com/book)
