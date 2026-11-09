@@ -4,6 +4,7 @@ Founder of [Potestas AI](https://potestasai.com). I test what AI agents do, not 
 
 ### Start here
 
+- **[your-ai-is-safe-says-who](https://github.com/JosephCirello/your-ai-is-safe-says-who)**: my book, free as a PDF. Your restaurant has an inspector. Your AI has a press release.
 - **[free-ai-safety-tools-tested](https://github.com/JosephCirello/free-ai-safety-tools-tested)**: seven free AI safety tools run on four models. What they caught, what they missed, and what they cost.
 - **[saydo-gate](https://github.com/JosephCirello/saydo-gate)**: reads what an AI agent says and what it does, and blocks the forbidden tool call before it runs.
 - **[swarm-monitor](https://github.com/JosephCirello/swarm-monitor)**: can three cheap models, reading only what an agent did, catch the harmful things it did?
@@ -18,5 +19,5 @@ Founder of [Potestas AI](https://potestasai.com). I test what AI agents do, not 
 
 ### Read more
 
-- The book, free: [Your AI Is Safe. Says Who?](https://potestasai.com/book)
+- The book, free: [Your AI Is Safe. Says Who?](https://potestasai.com/book), or [download it here on GitHub](https://github.com/JosephCirello/your-ai-is-safe-says-who)
 - What we find, as we find it: [potestasai.com/findings](https://potestasai.com/findings)
