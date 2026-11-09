@@ -2,6 +2,8 @@
 
 Founder of [Potestas AI](https://potestasai.com). I test what AI agents do, not what they say, and publish the evidence. U.S. Army veteran, Providence, Rhode Island.
 
+*The restaurant is inspecting its own kitchen.*
+
 ### Start here
 
 - **[your-ai-is-safe-says-who](https://github.com/Potestas-AI/your-ai-is-safe-says-who)**: my book, free as a PDF. Your restaurant has an inspector. Your AI has a press release.
