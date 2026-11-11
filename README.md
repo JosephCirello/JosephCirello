@@ -2,8 +2,6 @@
 
 Founder of [Potestas AI](https://potestasai.com). I test what AI agents do, not what they say, and publish the evidence. U.S. Army veteran, Providence, Rhode Island.
 
-*The restaurant is inspecting its own kitchen.*
-
 ### Start here
 
 - **[receipts](https://github.com/JosephCirello/receipts)**: if your AI agent moves money on PayPal, make it show its receipts. My PayPal AI Hackathon entry: a live demo, a three-minute video, and every run in the repo.
