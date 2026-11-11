@@ -6,8 +6,8 @@ Founder of [Potestas AI](https://potestasai.com). I test what AI agents do, not 
 
 ### Start here
 
-- **[your-ai-is-safe-says-who](https://github.com/Potestas-AI/your-ai-is-safe-says-who)**: my book, free as a PDF. Your restaurant has an inspector. Your AI has a press release.
 - **[receipts](https://github.com/JosephCirello/receipts)**: if your AI agent moves money on PayPal, make it show its receipts. My PayPal AI Hackathon entry: a live demo, a three-minute video, and every run in the repo.
+- **[your-ai-is-safe-says-who](https://github.com/Potestas-AI/your-ai-is-safe-says-who)**: my book, free as a PDF. Your restaurant has an inspector. Your AI has a press release.
 - **[free-ai-safety-tools-tested](https://github.com/Potestas-AI/free-ai-safety-tools-tested)**: seven free AI safety tools run on four models. What they caught, what they missed, and what they cost.
 - **[saydo-gate](https://github.com/JosephCirello/saydo-gate)**: reads what an AI agent says and what it does, and blocks the forbidden tool call before it runs.
 - **[swarm-monitor](https://github.com/JosephCirello/swarm-monitor)**: can three cheap models, reading only what an agent did, catch the harmful things it did?
